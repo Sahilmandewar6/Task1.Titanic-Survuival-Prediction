@@ -19,7 +19,7 @@ Technologies Used:
 Python for data preprocessing and machine learning model development.
 Jupyter Notebook for exploratory data analysis and model training.
 Pandas, NumPy, and scikit-learn for data manipulation and machine learning.
-Power BI for creating interactive and insightful dashboards.
+ 
 GitHub for version control and collaboration.**
 
 
